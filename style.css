@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.bg {
+  font-size: 50px;
+  background-image: url("joker.jfif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /*background-size: 100% 50%;*/
+  background-position: left 50% top 0;
+}
+
+/*background-image -> orqa fonga rasm qo'yish uchun*/
+/*background-repeat -> rasm takrorlanishini yoqish yoki o'chirish uchun*/
+/*background-size -> orqa fondagi rasmga o'lcham berish uchun*/
